@@ -12,24 +12,27 @@
 </script>
 
 <svelte:head>
-	<title>Gabriel Maia - Engenheiro de Software Sênior</title>
+	<title>MAIA Solutions - Desenvolva Primeiro, Pague Depois | Software House & IA</title>
 	<meta
 		name="description"
-		content="Portfólio de Gabriel Maia - Engenheiro de Software Sênior com +6 anos de experiência em Node.js, Go, Python e arquiteturas escaláveis."
+		content="MAIA Solutions - Software house especializada em desenvolvimento sob medida, IA e automação. 50% do desenvolvimento antes do primeiro pagamento. Zero risco, máximo resultado."
 	/>
 	<meta
 		name="keywords"
-		content="Gabriel Maia, Desenvolvedor, Software Engineer, Node.js, Go, Python, Full Stack"
+		content="MAIA Solutions, desenvolvimento software, inteligência artificial, automação, software house, desenvolvimento web, desenvolvimento mobile, consultoria tecnológica, transformação digital, São Paulo"
 	/>
-	<meta name="author" content="Gabriel Maia" />
-	<meta property="og:title" content="Gabriel Maia - Engenheiro de Software Sênior" />
+	<meta name="author" content="MAIA Solutions" />
+	<meta property="og:title" content="MAIA Solutions - Desenvolva Primeiro, Pague Depois" />
 	<meta
 		property="og:description"
-		content="Portfólio de Gabriel Maia - Engenheiro de Software Sênior com +6 anos de experiência."
+		content="Software house que desenvolve 50% do seu projeto antes do primeiro pagamento. Especialistas em IA, automação e desenvolvimento sob medida."
 	/>
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="https://gabrielmaia.dev" />
-	<link rel="canonical" href="https://gabrielmaia.dev" />
+	<meta property="og:url" content="https://maiasolutions.tech" />
+	<meta property="og:image" content="https://maiasolutions.tech/og-image.png" />
+	<link rel="canonical" href="https://maiasolutions.tech" />
+	<meta name="robots" content="index, follow" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
 </svelte:head>
 
 <div class="bg-background min-h-screen">
@@ -46,10 +49,11 @@
 	<!-- Footer -->
 	<footer class="border-border border-t px-4 py-8">
 		<div class="text-muted-foreground mx-auto max-w-6xl text-center text-sm">
-			<p>© {new Date().getFullYear()} Gabriel Maia. Todos os direitos reservados.</p>
+			<p>© {new Date().getFullYear()} MAIA Solutions. Todos os direitos reservados.</p>
+			<p class="mt-2">CNPJ: 40.144.618/0001-40</p>
 			<p class="mt-2">
-				Feito com <span class="gradient-text">Svelte</span> +
-				<span class="gradient-text">Tailwind CSS</span>
+				Tecnologia de ponta com <span class="gradient-text">IA</span> e
+				<span class="gradient-text">Automação</span>
 			</p>
 		</div>
 	</footer>

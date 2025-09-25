@@ -57,5 +57,8 @@
 			"@tailwindcss/oxide",
 			"esbuild"
 		]
+	},
+	"dependencies": {
+		"lucide-svelte": "^0.544.0"
 	}
 }
