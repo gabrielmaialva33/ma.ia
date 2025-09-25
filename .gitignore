@@ -27,3 +27,6 @@ vite.config.ts.timestamp-*
 .vscode
 *.sublime-workspace
 *.sublime-project
+
+# Claude
+.claude
