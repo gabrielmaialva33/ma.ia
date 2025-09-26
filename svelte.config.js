@@ -15,7 +15,7 @@ const config = {
 		paths: isGhPages
 			? {
 				base: basePath,
-				assets: 'relative'
+				relative: true
 			}
 			: {}
 	}
