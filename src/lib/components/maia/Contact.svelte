@@ -43,7 +43,7 @@
 	function openWhatsApp() {
 		const phone = '5515996241329';
 		const message = encodeURIComponent(
-			'Olá! Gostaria de saber mais sobre os serviços da MAIA Solutions.'
+			'Olá! Gostaria de saber mais sobre os serviços da Ma.ia.'
 		);
 		window.open(`https://wa.me/${phone}?text=${message}`, '_blank');
 	}
@@ -271,7 +271,7 @@
 				<div class="from-primary/10 to-primary/5 mt-6 rounded-lg bg-gradient-to-r p-4">
 					<p class="mb-1 text-sm font-semibold">CNPJ: 40.144.618/0001-40</p>
 					<p class="text-muted-foreground text-xs">
-						MAIA Solutions - Tecnologia e Inovação<br />
+						Ma.ia - Tecnologia e Inovação<br />
 						Agente Comercial: Geovane Aparecido de Oliveira
 					</p>
 				</div>

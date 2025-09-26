@@ -12,17 +12,17 @@
 </script>
 
 <svelte:head>
-	<title>MAIA Solutions - Desenvolva Primeiro, Pague Depois | Software House & IA</title>
+	<title>Ma.ia - Desenvolva Primeiro, Pague Depois | Software House & IA</title>
 	<meta
 		name="description"
-		content="MAIA Solutions - Software house especializada em desenvolvimento sob medida, IA e automação. 50% do desenvolvimento antes do primeiro pagamento. Zero risco, máximo resultado."
+		content="Ma.ia - Software house especializada em desenvolvimento sob medida, IA e automação. 50% do desenvolvimento antes do primeiro pagamento. Zero risco, máximo resultado."
 	/>
 	<meta
 		name="keywords"
-		content="MAIA Solutions, desenvolvimento software, inteligência artificial, automação, software house, desenvolvimento web, desenvolvimento mobile, consultoria tecnológica, transformação digital, São Paulo"
+		content="Ma.ia, desenvolvimento software, inteligência artificial, automação, software house, desenvolvimento web, desenvolvimento mobile, consultoria tecnológica, transformação digital, São Paulo"
 	/>
-	<meta name="author" content="MAIA Solutions" />
-	<meta property="og:title" content="MAIA Solutions - Desenvolva Primeiro, Pague Depois" />
+	<meta name="author" content="Ma.ia" />
+	<meta property="og:title" content="Ma.ia - Desenvolva Primeiro, Pague Depois" />
 	<meta
 		property="og:description"
 		content="Software house que desenvolve 50% do seu projeto antes do primeiro pagamento. Especialistas em IA, automação e desenvolvimento sob medida."
@@ -49,7 +49,7 @@
 	<!-- Footer -->
 	<footer class="border-border border-t px-4 py-8">
 		<div class="text-muted-foreground mx-auto max-w-6xl text-center text-sm">
-			<p>© {new Date().getFullYear()} MAIA Solutions. Todos os direitos reservados.</p>
+			<p>© {new Date().getFullYear()} Ma.ia. Todos os direitos reservados.</p>
 			<p class="mt-2">CNPJ: 40.144.618/0001-40</p>
 			<p class="mt-2">
 				Tecnologia de ponta com <span class="gradient-text">IA</span> e
